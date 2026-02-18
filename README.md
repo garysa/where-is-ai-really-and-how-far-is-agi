@@ -5,6 +5,10 @@
 
 ---
 
+> **Disclaimer:** Just another prompt based AI analysis. Use it as you see fit.
+
+---
+
 ## About This Project
 
 This is an honest, research-backed analysis of where Artificial Intelligence actually stands today (February 2026), how far we are from Artificial General Intelligence (AGI), and what the mainstream narrative gets wrong.
