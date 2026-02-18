@@ -61,6 +61,21 @@ This analysis was built through a critical conversation with Claude (Anthropic),
 
 ---
 
+## Key Thinker - Gary Marcus
+
+This analysis independently confirms the work of **Gary Marcus** (cognitive scientist, NYU Professor Emeritus) who has been making these exact arguments since 2018 - long before the mainstream caught up.
+
+His Substack is essential reading: **[Marcus on AI](https://garymarcus.substack.com)**
+
+Key pieces:
+- [Scale Is All You Need is Dead](https://garymarcus.substack.com/p/breaking-news-scale-is-all-you-need)
+- [Game Over - AGI is Not Imminent](https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating)
+- [Rumors of AGI's Arrival Have Been Greatly Exaggerated](https://garymarcus.substack.com/p/rumors-of-agis-arrival-have-been)
+- [A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)
+- [LLMs Are a Dress Rehearsal for AGI - Axios](https://www.axios.com/2025/12/05/chatgpt-gary-marcus-large-language-models-agi)
+
+---
+
 ## Sources
 
 - [2025 AAAI Expert Survey on AGI](https://forum.effectivealtruism.org/posts/MGpJpN3mELxwyfv8t/francois-chollet-on-why-llms-won-t-scale-to-agi)

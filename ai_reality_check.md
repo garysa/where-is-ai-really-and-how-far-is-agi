@@ -453,7 +453,66 @@ If the loop includes real world interaction - robots getting feedback from physi
 **Loop + physical world feedback = possibly a path worth exploring**
 
 ---
+
+## 16. Gary Marcus - The Researcher Who Said This First
+
+### Who Is Gary Marcus?
+- Cognitive scientist, NYU Professor Emeritus
+- AI researcher for 30+ years
+- One of the most consistent and accurate critics of LLM hype
+- Not funded by AI companies - no financial stake in the outcome
+- Has been saying everything in this document **since 2018**
+
+### Why He Matters For This Analysis
+Almost every conclusion we reached in this document was articulated by Marcus years before the mainstream caught up. The analysis here - built through an AI conversation in 2026 - independently confirms what he has been arguing since deep learning's rise.
+
+### His Core Arguments (that this analysis confirms)
+
+**1. "Scale Is All You Need" is Dead**
+> Marcus launched this campaign in his 2022 essay "Deep Learning is Hitting a Wall"
+> - [Read: "Scale Is All You Need" is Dead](https://garymarcus.substack.com/p/breaking-news-scale-is-all-you-need)
+
+**2. LLMs Cannot Build World Models**
+> "Without robust cognitive models of the world, LLMs should never be fully trusted"
+> LLMs have a "crippling and widespread failure to induce robust models of the world"
+> - [Read: Generative AI's Crippling Failure to Model the World](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
+
+**3. LLM Reasoning is Fundamentally Flawed**
+> The Apple reasoning paper (June 2025) confirmed Marcus's 30-year argument:
+> LLMs still cannot handle distribution shift - seeing a problem framed differently breaks them entirely
+> - [Read: A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)
+> - [Read: LLM Reasoning Continues to Be Deeply Flawed](https://garymarcus.substack.com/p/breaking-llm-reasoning-continues)
+
+**4. AGI Rumours Are Greatly Exaggerated**
+> "Recent claims of AGI rest on a fundamental confusion between performance on individual tasks and general intelligence - conflating increasingly sophisticated statistical approximations with intelligence itself"
+> - [Read: Rumors of AGI's Arrival Have Been Greatly Exaggerated](https://garymarcus.substack.com/p/rumors-of-agis-arrival-have-been)
+> - [Read: Game Over - AGI is Not Imminent](https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating)
+
+**5. LLMs Are a "Dress Rehearsal" Not the End Game**
+> Marcus told Axios in December 2025: LLMs are a "dress rehearsal" for AGI - useful but not the destination
+> - [Read: Exclusive - Gary Marcus Says LLMs Are a Dress Rehearsal for AGI](https://www.axios.com/2025/12/05/chatgpt-gary-marcus-large-language-models-agi)
+
+**6. The Solution is Hybrid AI**
+> Marcus has consistently argued for neurosymbolic AI - combining LLM pattern matching with symbolic reasoning
+> This maps directly to what the research now confirms as the likely path forward
+> - [Read: Not on the Best Path - Communications of the ACM](https://cacm.acm.org/opinion/not-on-the-best-path/)
+
+### The Grand AGI Delusion
+> - [Read: The Grand AGI Delusion](https://garymarcus.substack.com/p/the-grand-agi-delusion/comments)
+
+### His Substack - Required Reading
+Everything Marcus publishes is worth reading if you want the unvarnished truth about AI:
+**[Marcus on AI - Substack](https://garymarcus.substack.com)**
+
+### The Uncomfortable Truth About Marcus
+The AI industry has largely tried to ignore him. His predictions have consistently proven correct. He has no financial incentive to say what he says. That combination makes him one of the most credible voices in the entire field.
+
+As this analysis independently concluded through an AI conversation - and as Marcus has argued since 2018:
+
+> **LLMs are the world's most sophisticated autocomplete. They are not intelligent. AGI requires something fundamentally different. We don't have it yet.**
+
+---
 *Generated from conversation - 2026-02-18*
-*Sources: 2025 AAAI Expert Survey, ARC-AGI-2 Benchmarks, LM Council Feb 2026*
+*Sources: 2025 AAAI Expert Survey, ARC-AGI-2 Benchmarks, LM Council Feb 2026, Marcus on AI Substack*
 *[Why LLMs Won't Scale to AGI](https://forum.effectivealtruism.org/posts/MGpJpN3mELxwyfv8t/francois-chollet-on-why-llms-won-t-scale-to-agi) | [Expert AGI Timelines](https://80000hours.org/2025/03/when-do-experts-expect-agi-to-arrive/) | [AI Model Benchmarks Feb 2026](https://lmcouncil.ai/benchmarks) | [LLM Bubble Analysis](https://medium.com/generative-ai-revolution-ai-native-transformation/the-llm-bubble-is-bursting-the-2026-ai-reset-powering-agentic-engineering-085da564b6cd)*
 *These are observations about AI limitations and risks, not AI marketing*
