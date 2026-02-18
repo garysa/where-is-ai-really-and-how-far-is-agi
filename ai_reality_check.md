@@ -454,7 +454,118 @@ If the loop includes real world interaction - robots getting feedback from physi
 
 ---
 
-## 16. Gary Marcus - The Researcher Who Said This First
+## 16. Where AI Is Genuinely Useful - And Why HAL 9000 Is Still Science Fiction
+
+### The HAL 9000 Caveat First
+
+HAL 9000 from *2001: A Space Odyssey* (1968) remains one of the most accurate depictions of what true AGI would look like:
+- Self-aware and emotionally complex
+- Could reason independently and set its own goals
+- Had genuine understanding of context and consequence
+- Made autonomous moral decisions (however flawed)
+- Could lip-read, manage a spacecraft, feel fear of death
+
+**We are nowhere near HAL. Not even close.**
+
+Current AI has no self-awareness, no genuine understanding, no goals of its own, no fear, no curiosity, no inner life. HAL understood the world. We build systems that model language *about* the world. That gap is not a few years of research - it may be a fundamental unsolved problem in science.
+
+---
+
+### Where AI Is Genuinely, Powerfully Useful Today
+
+Despite all the limitations, AI as a productivity tool is **transformative in real, measurable ways**. Here is where it genuinely delivers:
+
+---
+
+**1. Medical Diagnosis and Drug Discovery**
+- AlphaFold (DeepMind) solved the 50-year protein folding problem - a genuine scientific breakthrough
+- AI detects cancers in scans with accuracy matching or exceeding specialist radiologists
+- Drug discovery timelines cut from decades to years
+- Pattern recognition in medical imaging at scale humans simply cannot match
+- *This is saving lives right now*
+
+**2. Scientific Research Acceleration**
+- AI reads and synthesises millions of research papers - no human team can do this
+- Identifies connections across disciplines that siloed researchers miss
+- AlphaEvolve (2025) discovered novel algorithms improving on human designs
+- Climate modelling, materials science, genomics - all accelerating
+- *Not replacing scientists - giving them superhuman research assistants*
+
+**3. Software Development**
+- Experienced developers report 30-50% productivity gains
+- Handles boilerplate, documentation, debugging, code review
+- Makes coding accessible to people who could not code before
+- Finds bugs in large codebases faster than human review
+- *A genuine force multiplier for builders*
+
+**4. Education and Accessibility**
+- Personalised tutoring available to anyone with internet access
+- Explains complex topics at any level, patiently, repeatedly
+- Democratises access to knowledge previously gated by expensive experts
+- Language translation breaking down global barriers in real time
+- *Potentially the most equalising technology since the printing press*
+
+**5. Creative Collaboration**
+- First draft generation freeing humans for higher-level creative decisions
+- Music, design, writing as starting points not end points
+- Accessibility tools for people with disabilities
+- Rapid prototyping of ideas that would take weeks manually
+- *Amplifies human creativity when used deliberately*
+
+**6. Data Analysis at Scale**
+- Finds patterns in datasets too large for human analysis
+- Financial fraud detection, supply chain optimisation, logistics
+- Climate data processing, satellite imagery analysis
+- *Doing in minutes what would take teams of analysts months*
+
+**7. Dangerous and Repetitive Work**
+- Autonomous systems in environments hazardous to humans
+- Quality control in manufacturing at speeds humans cannot sustain
+- Infrastructure monitoring - power grids, pipelines, networks
+- *Taking the dull and dangerous, leaving humans the meaningful*
+
+---
+
+### The Right Mental Model For AI In 2026
+
+| What AI Is | What AI Is Not |
+|---|---|
+| A brilliant, tireless assistant | An independent thinker |
+| A pattern recogniser at massive scale | A reasoner that understands causality |
+| A productivity multiplier | A replacement for human judgment |
+| A tool that amplifies the user | A tool that replaces the user |
+| Extraordinarily useful in defined domains | Reliably useful in open-ended reality |
+
+---
+
+### The HAL Test - A Useful Benchmark
+
+Before trusting AI with any high-stakes decision, ask:
+
+> *"Would HAL be able to do this?"*
+
+HAL could navigate a spacecraft, manage life support, read human emotion, understand consequences, and make independent moral judgments.
+
+If the task requires any of those capabilities - **keep a human in the loop.**
+
+If the task is pattern recognition, synthesis, drafting, analysis, translation, coding, or research acceleration - **AI is your most powerful tool.**
+
+---
+
+### The Honest Summary
+
+AI in 2026 is the most powerful productivity tool ever built.
+In the right hands, applied to the right problems, it is genuinely transformative.
+It is accelerating science, democratising knowledge, and augmenting human capability in ways that matter.
+
+It is not HAL. It is not thinking. It does not understand you.
+
+**But a hammer does not need to understand carpentry to build a house.**
+The question is always: who is holding it, and do they know what they are doing?
+
+---
+
+## 17. Gary Marcus - The Researcher Who Said This First
 
 ### Who Is Gary Marcus?
 - Cognitive scientist, NYU Professor Emeritus

@@ -38,6 +38,7 @@ This analysis was built through a critical conversation with Claude (Anthropic),
 4. **China's constraint may be an advantage** - DeepSeek proved efficiency beats brute force
 5. **AI is a perfect propaganda machine** - and 90% of users don't question its output
 6. **The only defense is critical thinking** - which AI is quietly eroding at scale
+7. **AI IS genuinely transformative** - in medicine, science, coding, education - but HAL 9000 remains science fiction
 
 ---
 
@@ -58,6 +59,8 @@ This analysis was built through a critical conversation with Claude (Anthropic),
 13. Updated Conclusion - Where We Actually Are (Feb 2026)
 14. China - Is Hardware Constraint Forcing a Better Path?
 15. Can LLM Loops + Retraining to Smaller Models Create AGI?
+16. Where AI Is Genuinely Useful - And Why HAL 9000 Is Still Science Fiction
+17. Gary Marcus - The Researcher Who Said This First
 
 ---
 
